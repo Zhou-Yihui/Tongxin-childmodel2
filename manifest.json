@@ -1,0 +1,20 @@
+{
+  "name": "童心 AI",
+  "short_name": "童心",
+  "start_url": "/Tongxin-childmodel2/index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f9",
+  "theme_color": "#004bbb",
+  "icons": [
+    {
+      "src": "/Tongxin-childmodel2/1763195248351.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Tongxin-childmodel2/1763195248351.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
